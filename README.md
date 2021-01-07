@@ -1,4 +1,4 @@
-# Versión del curso
+# VERSION DEL CURSO
 Versión actual: v1.2.2
 
 # Cabeceras
